@@ -18,9 +18,9 @@ Thank you for visiting!
 ### 🏫 Education
 | Organization | Date | Contents |
 | :----------: | :--: | :------: |
-| Naver Connect Foundation | 2022.08 ~ 2022.12 | Boostcamp membership 7 |
-| Naver Connect Foundation | 2022.07 ~ 2022.08 | Boostcamp challenge 7 |
-| Grepp Co. | 2022.03 ~ 2022.08 | Programmers backend devcourse 2 |
+| Naver Connect Foundation | 2022.08 ~ 2022.12 | Boostcamp membership 7th |
+| Naver Connect Foundation | 2022.07 ~ 2022.08 | Boostcamp challenge 7th |
+| Grepp Co. | 2022.03 ~ 2022.08 | Programmers backend devcourse 2nd |
 | Ajou University | 2017.03 ~ 2023.02 | Department of software |
 
 ### 🏔 Others
