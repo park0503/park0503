@@ -13,7 +13,6 @@ Thank you for visiting!
 | Organization | Date | Work |
 | :----------: | :--: | :--: |
 | KAKAO | 2022.12 ~ | Server developer |
-| Sotalabs | 2021.01 ~ 2022.02 | Web fullstack developer |
 
 ### 🏫 Education
 | Organization | Date | Contents |
@@ -22,13 +21,6 @@ Thank you for visiting!
 | Naver Connect Foundation | 2022.07 ~ 2022.08 | Boostcamp challenge 7th |
 | Grepp Co. | 2022.03 ~ 2022.08 | Programmers backend devcourse 2nd |
 | Ajou University | 2017.03 ~ 2023.02 | Department of software |
-
-### 🏔 Others
-| Type | Organization | Date | Contents |
-| :--: | :----------: | :--: | :------: |
-| Certificate | Human Resources Development Service of Korea | 2022.09 | Engineer Information Processing |
-| Prize | Republic of Korea Airforce | 2022.07 | TOPCIT 17th Periodic Evaluation - Special Awards|
-| Military service | 28th Infantry Division of the Republic of Korea Army | 2018.12 ~ 2020.04 | Computer Technician |
 <!--
 **park0503/park0503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
